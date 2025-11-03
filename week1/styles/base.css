@@ -24,7 +24,7 @@ body {
 
 
 header {
-    background-color: var(--color-primary);
+    
     color: white;
     padding: 20px;
     text-align: center;
@@ -224,4 +224,10 @@ main {
 .me section {
     margin-bottom: 30px;
     width: 100%;
+}
+#course-title{
+    background-color: var(--color-primary);
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
 }
