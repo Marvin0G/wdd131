@@ -73,6 +73,30 @@ nav {
 	content: "X";
 } */
 
+:root{
+
+  --color-primary: #000080;  /* Navy */
+  --color-accent: #ffc107;   /* A nice yellow */
+  --color-text: #333333;     /* Dark grey for text */
+  --color-bg: rgb(110, 91, 91);
+  --color-bg-main: #eaf0ff;  /* Light blue-grey - perfect for main background */
+  
+  --font-primary: 'Momo Trust Display', sans-serif;
+
+  --spacing-medium: 16px;
+  --border-radius-standard: 4px;
+}
+
+header{
+	background-color: var(--color-primary);
+	display: grid;
+	grid-gap: 1em;
+	padding:10px;
+	border:1px solid var(--color-bg);
+	box-shadow: 0 0 20px var(--color-accent);
+	
+}
+
 img{
     width: 30px;
     height: auto;
