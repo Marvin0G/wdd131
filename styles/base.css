@@ -226,8 +226,18 @@ main {
     width: 100%;
 }
 #course-title{
-    background-color: var(--color-primary);
+    background-color: var(--color-bg);
+    
     padding: 20px;
     margin-bottom: 10px;
     border-radius: 10px;
+}
+
+header h1{
+  color: var(--color-primary);  
+} 
+#name{
+    color:var(--color-accent) ;
+    text-shadow: 6cm;
+
 }
