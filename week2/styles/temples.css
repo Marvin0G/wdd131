@@ -28,7 +28,7 @@ header, footer {
 }
 
 #menu.open::before {
-	content: "❎";
+	content: "✖️";
 }
 
 .navigation {
