@@ -7,7 +7,10 @@
         justify-content: center;
     }
 
-    .navigation a { border-bottom: none; }
+    .navigation a {
+        display: block;
+         border-bottom: none;
+         }
 
     /* 3 Columns for Desktop */
     .temple-grid {

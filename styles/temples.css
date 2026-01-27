@@ -56,9 +56,9 @@ header, footer {
     color: #fff;
 }
 
-.navigation.open a {
+/* .navigation.open a {
     display: block;
-}
+} */
 
 
 .navigation a:hover {
@@ -70,7 +70,7 @@ header, footer {
 
 .open a {
 	display: block;
-} */
+}
 
 
 
