@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background: #003366;
+    background: rgb(107, 3, 177);
     color: white;
     padding: 1rem;
     text-align: center;
@@ -16,7 +16,7 @@ nav button {
     padding: 0.5rem 1rem;
     border: none;
     background: white;
-    color: #003366;
+    color:rgb(107, 3, 177);;
     cursor: pointer;
     font-weight: bold;
 }
@@ -46,7 +46,7 @@ nav button:hover {
 }
 
 footer {
-    background: #003366;
+    background:  rgb(107, 3, 177);;
     color: white;
     text-align: center;
     padding: 1rem;
